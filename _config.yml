@@ -1,1 +1,11 @@
+title: Vikas Chandaluru # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Specialist Programmer
+  <br><br>
+  <a href="mailto:lakshminarasimhavikas123@gmail.com">lakshminarasimhavikas123@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/vikas-chandaluru-618007148/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/clnvikas/">Gihub</a> 
 theme: jekyll-theme-minimal
